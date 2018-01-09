@@ -3,16 +3,15 @@
 }
 
 .App-header {
-  background-color: #222;
-  height: 50px;
+  height: 5vh;
   padding: 20px;
-  color: white;
+  color: #ffcc54;
 }
 
 .App-title {
   font-size: 1.5em;
 }
 
-.App-intro {
-  font-size: large;
+.previewer {
+  display: flex;
 }
