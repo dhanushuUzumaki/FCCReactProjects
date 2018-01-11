@@ -14,4 +14,13 @@
 
 .previewer {
   display: flex;
+  flex-direction: row;
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (orientation: portrait) {
+    .previewer {
+      flex-direction: column;
+    }
 }
