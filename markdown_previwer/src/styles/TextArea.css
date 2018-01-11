@@ -1,0 +1,19 @@
+.textarea, .preview {
+    box-sizing: border-box;
+    width: 95%;
+    height: 95%;
+    padding: 15px;
+    margin: 10px;
+    overflow: auto;
+    border: none;
+    border-radius: 10px;
+    text-align: left;
+    color: white;
+    resize: none;
+    background: transparent;
+    font-size: 13px;
+}
+
+textarea:focus {
+    outline: none;
+}

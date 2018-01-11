@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  height: 5vh;
+  padding: 20px;
+  color: #ffcc54;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.previewer {
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (orientation: portrait) {
+    .previewer {
+      flex-direction: column;
+    }
+}

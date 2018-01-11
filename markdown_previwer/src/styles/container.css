@@ -1,0 +1,28 @@
+.container {
+    height: 80vh;
+    border: 1px solid black;
+    width: 50vw;
+    position: relative;
+    box-sizing: border-box;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.container img {
+    width: 50vw;
+    height: 50vw;
+}
+
+.container a, .container a:visited {
+    color: #ffcc54;
+}
+
+
+/* Smartphones Protrait */
+@media screen 
+  and (device-width: 360px) 
+  and (orientation: portrait) {
+      .container {
+          width: 98vw;
+      }
+}
