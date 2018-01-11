@@ -4,3 +4,22 @@ body {
   font-family: sans-serif;
   background: #2f3536;
 }
+
+.contact {
+  display: block;
+  text-align: center;
+}
+
+.fa, a {
+  margin: 5px;
+  font-size: 30px;
+  color: #ffcc54;
+  text-decoration: none;
+}
+
+.fa:hover {
+  margin: 5px;
+  font-size: 30px;
+  color: #c89b20;
+  text-decoration: none;
+}
