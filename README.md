@@ -8,6 +8,6 @@ It uses markdown.js.
 
 ---
 
-** Things to Do **
+**Things to Do**
 
 * Download Markdown File
