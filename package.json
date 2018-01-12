@@ -16,5 +16,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage" : "https://dhanushuUzumaki.github.io/markdown_previewer/"
+  "homepage": "https://dhanushuUzumaki.github.io/markdown_previewer/"
 }
