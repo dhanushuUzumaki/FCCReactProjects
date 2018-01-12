@@ -15,6 +15,7 @@
 
 .container a, .container a:visited {
     color: #ffcc54;
+    font-size: initial;
 }
 
 
